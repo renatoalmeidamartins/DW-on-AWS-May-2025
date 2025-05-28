@@ -8,3 +8,4 @@
 ## Supporting materials
 - [List of all instructor-led training, along with their versions](https://releases.awstc.com/)
 - [List of classroom-training, by role](https://aws.amazon.com/training/classroom/?nc2=sb_tr_ct)
+- [Skills builder - Site with lots of materials from AWS, courses, videos, learning paths. Most with free access](https://skillbuilder.aws/)
