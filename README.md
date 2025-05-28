@@ -14,4 +14,6 @@
 - [Hitchhiker's guide to the data lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
 - [Medallion architecture](https://www.databricks.com/glossary/medallion-architecture)
 - [Database normalization](en.wikipedia.org/wiki/Database_normalization)
-- 
+- [Star schema](https://en.wikipedia.org/wiki/Star_schema)
+- [The data ware toolkit book](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/)
+- [Data management at scale book](https://www.amazon.com/Data-Management-Scale-Modern-Architecture/)
