@@ -23,4 +23,4 @@
 - [CREATE TABLE statement](https://docs.aws.amazon.com/en_us/redshift/latest/dg/r_CREATE_TABLE_NEW.html) - pay attention to the supported types on sortkey (SUPER is not supported)
 - [Primary and foreign key constraints are informationaly only](https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-defining-constraints.html)
 - [SUPER data type supports up to 16 MBs of data](https://docs.aws.amazon.com/redshift/latest/dg/r_SUPER_type.html)
-- 
+- [Analyze compression command](https://docs.aws.amazon.com/redshift/latest/dg/t_Verifying_data_compression.html) - this can indicate the most optimal encoding for the current data, and estimate space savings
