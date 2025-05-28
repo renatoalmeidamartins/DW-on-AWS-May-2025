@@ -17,3 +17,5 @@
 - [Star schema](https://en.wikipedia.org/wiki/Star_schema)
 - [The data ware toolkit book](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/)
 - [Data management at scale book](https://www.amazon.com/Data-Management-Scale-Modern-Architecture/)
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
+- [Nodes and slices size table](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html)
