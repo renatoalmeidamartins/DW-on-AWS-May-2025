@@ -32,3 +32,4 @@
 - [Jobs with the COPY command](https://docs.aws.amazon.com/redshift/latest/dg/r_COPY-JOB.html) - detects changes on the S3 bucket
 - [COPY command](https://docs.aws.amazon.com/redshift/latest/dg/r_COPY.html) - client side encryption is not supported anymore
 - [Redshift Spectrum](https://docs.aws.amazon.com/en_us/redshift/latest/dg/c-getting-started-using-spectrum.html)
+- [Kinesis Firehose supporting zero-seconds buffering](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/)
