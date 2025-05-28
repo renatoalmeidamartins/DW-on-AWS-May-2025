@@ -27,3 +27,4 @@
 - [System-defined roles](https://docs.aws.amazon.com/redshift/latest/dg/r_roles-default.html)
 - [Auto table optimization](https://docs.aws.amazon.com/redshift/latest/dg/t_Creating_tables.html)
 - [Feature support across PostgreSQL and Redshift](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html)
+- [Step-by-step database migrations using DMS](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
