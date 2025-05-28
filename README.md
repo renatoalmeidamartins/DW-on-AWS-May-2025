@@ -31,3 +31,4 @@
 - [S3 directory buckets](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-express-differences.html)
 - [Jobs with the COPY command](https://docs.aws.amazon.com/redshift/latest/dg/r_COPY-JOB.html) - detects changes on the S3 bucket
 - [COPY command](https://docs.aws.amazon.com/redshift/latest/dg/r_COPY.html) - client side encryption is not supported anymore
+- [Redshift Spectrum](https://docs.aws.amazon.com/en_us/redshift/latest/dg/c-getting-started-using-spectrum.html)
