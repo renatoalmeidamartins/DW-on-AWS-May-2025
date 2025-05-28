@@ -33,3 +33,5 @@
 - [COPY command](https://docs.aws.amazon.com/redshift/latest/dg/r_COPY.html) - client side encryption is not supported anymore
 - [Redshift Spectrum](https://docs.aws.amazon.com/en_us/redshift/latest/dg/c-getting-started-using-spectrum.html)
 - [Kinesis Firehose supporting zero-seconds buffering](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/)
+- [Redshift materialized views](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html)
+- [Setting up zero-ETL cross-account](https://repost.aws/articles/AR5c_j088bT76j2v5hAWaljw/set-up-cross-account-zero-etl-integration-in-the-same-region)
