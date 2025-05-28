@@ -20,3 +20,7 @@
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
 - [Nodes and slices size table](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html)
 - [Serverless Reservations, a way to save on costs for Redshift serverless](https://aws.amazon.com/about-aws/whats-new/2025/04/serverless-reservations-discounted-pricing-option-amazon-redshift-serverless/)
+- [CREATE TABLE statement](https://docs.aws.amazon.com/en_us/redshift/latest/dg/r_CREATE_TABLE_NEW.html) - pay attention to the supported types on sortkey (SUPER is not supported)
+- [Primary and foreign key constraints are informationaly only](https://docs.aws.amazon.com/redshift/latest/dg/c_best-practices-defining-constraints.html)
+- [SUPER data type supports up to 16 MBs of data](https://docs.aws.amazon.com/redshift/latest/dg/r_SUPER_type.html)
+- 
