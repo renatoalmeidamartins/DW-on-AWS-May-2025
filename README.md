@@ -13,4 +13,5 @@
 ## Day 1 links
 - [Hitchhiker's guide to the data lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
 - [Medallion architecture](https://www.databricks.com/glossary/medallion-architecture)
+- [Database normalization](en.wikipedia.org/wiki/Database_normalization)
 - 
