@@ -47,5 +47,4 @@
 - [Auto refresh for materialized views](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-refresh.html)
 - [Explain command operators](https://docs.aws.amazon.com/redshift/latest/dg/c-the-query-plan.html)
 - [Automatic materialized views](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-auto-mv.html)
-- 
-- 
+- [Advanced design patterns for DynamoDB](https://www.youtube.com/watch?v=xfxBhvGpoa0) - no direct relation to the class, just to highlight the pivotal shift we have when we go non-relational. Start with the access patterns, and build the table based on them
