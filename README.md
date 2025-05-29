@@ -59,4 +59,5 @@
 - [VACUUM command](https://docs.aws.amazon.com/redshift/latest/dg/r_VACUUM_command.html)
 - [System tables and views reference - STV has "snapshots" of system state, and STL has logging](https://docs.aws.amazon.com/redshift/latest/dg/cm_chap_system-tables.html)
 - [Diagnostic queries to identify queries that should be tuned](https://docs.aws.amazon.com/redshift/latest/dg/diagnostic-queries-for-query-tuning.html)
-- 
+- [Concurrency scaling mode](https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html)
+- [Query monitoring rules](https://docs.aws.amazon.com/redshift/latest/dg/cm-c-wlm-query-monitoring-rules.html)
