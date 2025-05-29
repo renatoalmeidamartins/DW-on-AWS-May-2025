@@ -48,3 +48,7 @@
 - [Explain command operators](https://docs.aws.amazon.com/redshift/latest/dg/c-the-query-plan.html)
 - [Automatic materialized views](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-auto-mv.html)
 - [Advanced design patterns for DynamoDB](https://www.youtube.com/watch?v=xfxBhvGpoa0) - no direct relation to the class, just to highlight the pivotal shift we have when we go non-relational. Start with the access patterns, and build the table based on them
+- [Common-table expressions](https://docs.aws.amazon.com/redshift/latest/dg/r_WITH_clause.html)
+- [Exploits of a mom on XKCD](https://xkcd.com/327/)
+- [PL/pgSQL reference - used inside procedures](https://docs.aws.amazon.com/redshift/latest/dg/c_pl_pgSQL_reference.html)
+- 
