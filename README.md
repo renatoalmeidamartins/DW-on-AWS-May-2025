@@ -61,3 +61,4 @@
 - [Diagnostic queries to identify queries that should be tuned](https://docs.aws.amazon.com/redshift/latest/dg/diagnostic-queries-for-query-tuning.html)
 - [Concurrency scaling mode](https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html)
 - [Query monitoring rules](https://docs.aws.amazon.com/redshift/latest/dg/cm-c-wlm-query-monitoring-rules.html)
+- [AWS Config conformance pack definitions](https://github.com/awslabs/aws-config-rules/tree/master/aws-config-conformance-packs)
