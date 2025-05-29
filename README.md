@@ -45,5 +45,6 @@
 - [Connecting from the Query editor to the glue data catalog](https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-glue.html)
 - [Materialized views in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html)
 - [Auto refresh for materialized views](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-refresh.html)
+- [Explain command operators](https://docs.aws.amazon.com/redshift/latest/dg/c-the-query-plan.html)
 - 
 - 
