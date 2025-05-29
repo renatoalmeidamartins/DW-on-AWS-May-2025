@@ -43,5 +43,6 @@
 - [Step by step to load data from a host - SSH-based](https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-remote-hosts.html)
 - [Get temporary credentials - must have the Redshift:GetClusterCredentials right](https://docs.aws.amazon.com/redshift/latest/mgmt/generating-iam-credentials-steps.html)
 - [Connecting from the Query editor to the glue data catalog](https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-glue.html)
+- [Materialized views in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html)
 - 
 - 
