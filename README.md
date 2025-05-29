@@ -52,3 +52,4 @@
 - [Exploits of a mom on XKCD](https://xkcd.com/327/)
 - [PL/pgSQL reference - used inside procedures](https://docs.aws.amazon.com/redshift/latest/dg/c_pl_pgSQL_reference.html)
 - [Window functions in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/c_Window_functions.html)
+- [Aggregation extensions - rollup, cube, grouping_sets](https://docs.aws.amazon.com/redshift/latest/dg/r_GROUP_BY_aggregation-extensions.html)
