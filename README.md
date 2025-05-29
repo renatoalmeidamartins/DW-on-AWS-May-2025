@@ -39,3 +39,7 @@
 ## Day 2 links
 - [Row level security end-to-end example](https://docs.aws.amazon.com/redshift/latest/dg/t_rls-example.html)
 - [Dynamic data masking](https://docs.aws.amazon.com/redshift/latest/dg/r_ddm-procedures.html)
+- [Step by step to load data from EMR into Redshift](https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-emr.html)
+- [Step by step to load data from a host - SSH-based](https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-remote-hosts.html)
+- 
+- 
