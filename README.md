@@ -53,3 +53,6 @@
 - [PL/pgSQL reference - used inside procedures](https://docs.aws.amazon.com/redshift/latest/dg/c_pl_pgSQL_reference.html)
 - [Window functions in Redshift](https://docs.aws.amazon.com/redshift/latest/dg/c_Window_functions.html)
 - [Aggregation extensions - rollup, cube, grouping_sets](https://docs.aws.amazon.com/redshift/latest/dg/r_GROUP_BY_aggregation-extensions.html)
+- [Redshift Serverless is supported on AWS backup since April 2025](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-amazon-redshift-serverless/)
+- [Cross-region snapshots](https://docs.aws.amazon.com/redshift/latest/mgmt/snapshot-crossregioncopy-configure.html)
+- [Converting a recovery point (similar to a transaction log backup, taken every 30 minutes to reduce the RPO) to a snapshot](https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-recovery-point-convert.html)
