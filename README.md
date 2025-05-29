@@ -41,5 +41,7 @@
 - [Dynamic data masking](https://docs.aws.amazon.com/redshift/latest/dg/r_ddm-procedures.html)
 - [Step by step to load data from EMR into Redshift](https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-emr.html)
 - [Step by step to load data from a host - SSH-based](https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-remote-hosts.html)
+- [Get temporary credentials - must have the Redshift:GetClusterCredentials right](https://docs.aws.amazon.com/redshift/latest/mgmt/generating-iam-credentials-steps.html)
+- [Connecting from the Query editor to the glue data catalog](https://docs.aws.amazon.com/redshift/latest/mgmt/query-editor-v2-glue.html)
 - 
 - 
