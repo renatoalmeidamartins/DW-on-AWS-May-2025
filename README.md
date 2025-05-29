@@ -57,3 +57,6 @@
 - [Cross-region snapshots](https://docs.aws.amazon.com/redshift/latest/mgmt/snapshot-crossregioncopy-configure.html)
 - [Converting a recovery point (similar to a transaction log backup, taken every 30 minutes to reduce the RPO) to a snapshot](https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-recovery-point-convert.html)
 - [VACUUM command](https://docs.aws.amazon.com/redshift/latest/dg/r_VACUUM_command.html)
+- [System tables and views reference - STV has "snapshots" of system state, and STL has logging](https://docs.aws.amazon.com/redshift/latest/dg/cm_chap_system-tables.html)
+- [Diagnostic queries to identify queries that should be tuned](https://docs.aws.amazon.com/redshift/latest/dg/diagnostic-queries-for-query-tuning.html)
+- 
