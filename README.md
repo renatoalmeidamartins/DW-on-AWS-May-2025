@@ -38,3 +38,4 @@
 
 ## Day 2 links
 - [Row level security end-to-end example](https://docs.aws.amazon.com/redshift/latest/dg/t_rls-example.html)
+- [Dynamic data masking](https://docs.aws.amazon.com/redshift/latest/dg/r_ddm-procedures.html)
