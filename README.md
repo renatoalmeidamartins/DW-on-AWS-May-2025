@@ -35,3 +35,6 @@
 - [Kinesis Firehose supporting zero-seconds buffering](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/)
 - [Redshift materialized views](https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html)
 - [Setting up zero-ETL cross-account](https://repost.aws/articles/AR5c_j088bT76j2v5hAWaljw/set-up-cross-account-zero-etl-integration-in-the-same-region)
+
+## Day 2 links
+- [Row level security end-to-end example](https://docs.aws.amazon.com/redshift/latest/dg/t_rls-example.html)
