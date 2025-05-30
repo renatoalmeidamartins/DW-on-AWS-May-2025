@@ -74,5 +74,6 @@
 - [Step function activity example](https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-creating-activity-state-machine.html)
 - [Activities in step functions](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-activities.html)
 - [All types of tasks supported in step functions](https://docs.aws.amazon.com/step-functions/latest/dg/state-task.html#state-task-activity)
-- 
+- [Example for ETL with dbt - data build tool](https://aws.amazon.com/blogs/big-data/implement-data-warehousing-solution-using-dbt-on-amazon-redshift/)
+- [Another example of using dbt](https://aws.amazon.com/blogs/big-data/create-a-modern-data-platform-using-the-data-build-tool-dbt-in-the-aws-cloud/)
 - 
