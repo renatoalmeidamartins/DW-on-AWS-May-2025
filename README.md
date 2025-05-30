@@ -1,5 +1,11 @@
 # Data warehousing on AWS - class links
 
+## Class evaluation
+Go to [aws.training])aws.training)
+Click sign in, log in with the same account you used to access the lab and course materials
+Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+You should see the class, with a button to evaluate
+
 ## Access to the class and course materials
 
 - [Class meeting link](https://awsvirtual.webex.com/awsvirtual/j.php?MTID=m56c471205ec47002f0182c982b6e9210)
