@@ -78,4 +78,6 @@
 - [Another example of using dbt](https://aws.amazon.com/blogs/big-data/create-a-modern-data-platform-using-the-data-build-tool-dbt-in-the-aws-cloud/)
 - [Eventbridge partner integrations](https://aws.amazon.com/blogs/aws/amazon-eventbridge-event-driven-aws-integration-for-your-saas-applications/)
 - [Sagemaker built-in models](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
-- 
+- [Dynamodb ingestion of streaming data into Redshift](https://aws.amazon.com/blogs/big-data/near-real-time-analytics-using-amazon-redshift-streaming-ingestion-with-amazon-kinesis-data-streams-and-amazon-dynamodb/)
+- [Cluster relocation](https://docs.aws.amazon.com/redshift/latest/mgmt/managing-cluster-recovery.html)
+- [Cluster resize](https://docs.aws.amazon.com/redshift/latest/mgmt/resizing-cluster.html)
