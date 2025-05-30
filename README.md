@@ -71,5 +71,8 @@
 - [DynamoDB fine-grained access control](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html)
 - [Redshift data API conditions and resources](https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonredshiftdataapi.html)
 - [Lake formation permissions and Redshift Spectrum](https://docs.aws.amazon.com/redshift/latest/dg/spectrum-lake-formation.html)
+- [Step function activity example](https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-creating-activity-state-machine.html)
+- [Activities in step functions](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-activities.html)
+- [All types of tasks supported in step functions](https://docs.aws.amazon.com/step-functions/latest/dg/state-task.html#state-task-activity)
 - 
 - 
