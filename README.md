@@ -62,3 +62,14 @@
 - [Concurrency scaling mode](https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html)
 - [Query monitoring rules](https://docs.aws.amazon.com/redshift/latest/dg/cm-c-wlm-query-monitoring-rules.html)
 - [AWS Config conformance pack definitions](https://github.com/awslabs/aws-config-rules/tree/master/aws-config-conformance-packs)
+## Day 3 links
+- [get iam role by user function](https://docs.aws.amazon.com/redshift/latest/dg/PG_GET_IAM_ROLE_BY_USER.html) - this, along with other functions, allows some introspection into the identity presented by a user
+- [Granting permissions to federated users](https://docs.aws.amazon.com/redshift/latest/mgmt/redshift-iam-access-federated-db-roles.html) - pay attention to the session mentioning tags, specifically the RedshiftDbRoles
+- [Example of using tag-based roles from IAM to assume different Redshift roles](https://repost.aws/articles/AR1m7iVsf1REyIsPpsU7p0fw/use-iam-tags-to-enable-fine-grained-federated-authentication-to-redshift-serverless)
+- [Attribute-based access control through identity center](https://docs.aws.amazon.com/singlesignon/latest/userguide/attributesforaccesscontrol.html)
+- [Redshift IAM policy conditions and resources](https://docs.aws.amazon.com/singlesignon/latest/userguide/attributesforaccesscontrol.html)
+- [DynamoDB fine-grained access control](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/specifying-conditions.html)
+- [Redshift data API conditions and resources](https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonredshiftdataapi.html)
+- [Lake formation permissions and Redshift Spectrum](https://docs.aws.amazon.com/redshift/latest/dg/spectrum-lake-formation.html)
+- 
+- 
